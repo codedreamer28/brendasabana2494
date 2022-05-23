@@ -1,4 +1,5 @@
 ### Hi there 👋
+### This is my sanctuary hehe 😄 where I work on personal and work projects and play alittle with new technologies
 
 <!--
 **brendasabana2494/brendasabana2494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
