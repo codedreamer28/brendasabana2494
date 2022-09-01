@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a web developer from Nairobi, Kenya, who loves open source. I mainly code in JavaScript, in 2020 I fell in love with so many modern web frameworks. I am always learning. Currently I'm also working on a couple of open-source projects, including my own Paperless school attendance management system, which is a tool that can be used to record school attendance for both students and teachers.<br>Oh! and I do mostly Open Source. In fact, I do Open Source so much, that 95% of my work on GitHub is free and open to everyone. I am really passionate about doing web development, it is in my opinion the best combination of logical programming and (sometimes) beautiful design. 
+I'm a web developer from Nairobi, Kenya, who loves open source. I mainly code in JavaScript. I am always learning! Infact currently I'm also working on a couple of open-source projects, including my own Paperless school attendance management system, which is a tool that can be used to record school attendance for both students and teachers.<br>Oh! and I do mostly Open Source. In fact, I do Open Source so much, that 95% of my work on GitHub is free and open to everyone. I am really passionate about doing web development, it is in my opinion the best combination of logical programming and (sometimes) beautiful design. 
 
 
 ## 🌐 Socials:
